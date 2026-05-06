@@ -67,16 +67,10 @@ The preprocessing pipeline improved ECG signal clarity and enabled reliable hear
 ## Output Visualizations
 
 ### Raw ECG Signal
-![Raw ECG](output_images/raw_ecg.png)
-
 ### Filtered ECG Signal
-![Filtered ECG](output_images/FFT of ECG Signal.png)
-
 ### FFT Analysis
-![FFT](output_images/fft_analysis.png)
-
 ### R-Peak Detection
-![R Peak](output_images/r_peak_detection.png)
+
 
 ---
 
