@@ -70,7 +70,7 @@ The preprocessing pipeline improved ECG signal clarity and enabled reliable hear
 ![Raw ECG](output_images/raw_ecg.png)
 
 ### Filtered ECG Signal
-![Filtered ECG](output_images/filtered_ecg.png)
+![Filtered ECG](output_images/FFT of ECG Signal.png)
 
 ### FFT Analysis
 ![FFT](output_images/fft_analysis.png)
